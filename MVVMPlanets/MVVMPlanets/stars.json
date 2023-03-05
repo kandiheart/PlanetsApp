@@ -1,0 +1,40 @@
+{
+  "stars": [
+    {
+      "Name": "Antares",
+      "Distance": "604 light-years",
+      "Magnitude": 1.09,
+      "ImageURL": "https://cdn.sci.news/images/enlarge4/image_5156_2e-Antares.jpg"
+    },
+    {
+      "Name": "Bellatrix",
+      "Distance": "243 light-years",
+      "Magnitude": 1.64,
+      "ImageURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Bellatrix.png/1200px-Bellatrix.png"
+    },
+    {
+      "Name": "Fomalhaut",
+      "Distance": "25.11 light-years",
+      "Magnitude": 1.16,
+      "ImageURL": "http://cdn.eso.org/images/screen/eso1216a.jpg"
+    },
+    {
+      "Name": "Rigel",
+      "Distance": "864.3 light-years",
+      "Magnitude": 0.12,
+      "ImageURL": "https://www.solarsystemquick.com/universe/rigel-star.jpg"
+    },
+    {
+      "Name": "Vega",
+      "Distance": "25.3 light-years",
+      "Magnitude": 0.03,
+      "ImageURL": "https://miro.medium.com/max/5120/1*I3D-Y8yMScEImd7Ja_ofzw.jpeg"
+    },
+    {
+      "Name": "Xi Draconis",
+      "Distance": "112.5 light-years",
+      "Magnitude": 3.75,
+      "ImageURL": "http://www.nasa.gov/sites/default/files/thumbnails/image/thuban_banner.jpg"
+    }
+  ]
+}
